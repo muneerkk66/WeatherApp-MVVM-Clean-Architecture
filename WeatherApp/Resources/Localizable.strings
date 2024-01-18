@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Muneer K K on 17/01/2024.
+  
+*/
+
+"appTitle" = "Weather App";
+"citField" = "Enter your city name";
